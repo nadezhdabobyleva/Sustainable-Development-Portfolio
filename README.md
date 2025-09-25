@@ -1,14 +1,14 @@
 # Lausanne – Malley-Sébeillon Energy Transition
 
 ## 📍 Context
-Collaborative project (University of Geneva, 2025) exploring **local energy and housing policies** in Lausanne.  
+Collaborative project (University of Geneva, 2025) exploring **energy transition frameworks energy and housing policies** in Lausanne, Switzerland.  
 
 ## 🎯 Objective
-- Align Lausanne’s **energy & housing strategies** with SDG 11 and the Swiss Energy Strategy 2050.  
-- Redesign Malley-Sébeillon as a sustainable **ecoquartier**.  
+- Align SDG 11 and the Swiss Energy Strategy 2050 **energy & housing strategies** with Lausanne's local initiatives.  
+- Assess Malley-Sébeillon as a potential for sustainable **ecoquartier** (densification, mobility, vegetation and technical solutions).  
 
 ## 🛠️ Methods & Tools
-- GIS analysis of housing, land use, transport, vegetation, energy potential.  
+- GIS analysis (housing, land use, transport, vegetation and energy potential).  
 - Policy review at global, federal, cantonal, and municipal levels.  
 - KPI framework for eco-neighborhoods.  
 
