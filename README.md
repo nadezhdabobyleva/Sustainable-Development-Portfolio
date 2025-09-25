@@ -18,4 +18,6 @@ Collaborative project (University of Geneva, 2025) exploring **energy transition
 - Identified renewable energy potential: **solar, geothermal, district heating**.  
 
 ## 🌍 Impact
-A roadmap for **integrating climate adaptation, energy transition, and housing equity** in Swiss mid-sized cities.  
+A roadmap for **integrating climate adaptation, energy transition and housing equity** in Swiss mid-sized cities.  
+
+
